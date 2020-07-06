@@ -2,7 +2,7 @@
   <div id="app">
     <div>
       <h1>Vue 3 v-model behaviour</h1>
-      <a href="https://github.com/flatdragon/vue-next-v-model-incorrect/blob/master/src/App.vue">See GitHub component source code</a>
+      <a href="https://github.com/flatdragon/vue-next-v-model-incorrect/blob/master/src/App.vue">See component source code</a>
     </div>
 
     <div>
